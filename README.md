@@ -1,4 +1,7 @@
 
+[![Build Status](https://dev.azure.com/RyanMaloney0866/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/rmaloney-rjet.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/RyanMaloney0866/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=1&branchName=master)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rmaloney-rjet_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=rmaloney-rjet_mslearn-tailspin-spacegame-web)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
